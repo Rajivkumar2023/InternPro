@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.navbar-brand img{
+	height:50px;
+	width:80px;
+}
+
+.portal p{
+	color:white;
+	font-size:2vh;
+	margin-bottom: -4px;
+}
+
+/* Custom font size */
+
+/* .service-row-1st {
+    font-weight: 600;
+} */
+
+/* Custom FORM background colors */
+
+.second-row-1st {
+    background-color: #f9fadf;
+}
+
+.second-row-2nd {
+    background-color: #faefa5;
+}
+
+.third-row {
+    background-color: #e4fdf0;
+}
+
+.fourth-row-1st {
+    background-color: #ffd1e6;
+}
+
+.fourth-row-2nd {
+    background-color: #eeeeee;
+}
+
+.bg-light-general {
+    background-color: #b5eafc;
+}
+
+.bg-light-formservice {
+    background-color: #19567c;
+    border-radius: 10px 10px 0 0;
+}
+
+.bg-light-green {
+    background-color: #e3f4fb;
+}
+
+.bg-light-blue {
+    background-color: #ccf7cd;
+}
+
+.bg-light-yellow {
+    background-color: #fffbe6;
+}
+
+.bg-light-orange {
+    background-color: #fff3e0;
+}
+
+.bg-light-purple {
+    background-color: #f3e5f5;
+}
+
+/* Custom SERVICES background colors */
+.ser-1st-row-1st {
+    background-color: #1e867c;
+}
+
+.ser-1st-row-2nd {
+    background-color: #b96361;
+}
+
+.ser-2nd-row-1st {
+    background-color: #aa6de8;
+}
+
+.ser-2nd-row-2nd {
+    background-color: #8e8f20;
+}
+
+.ser-3rd-row {
+    background-color: #aa5598;
+}
+
+.ser-4th-row {
+    background-color: #ffffff;
+}
+
+/* Custom card styles */
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Image icon height width for forms and services cards */
+.card .icon {
+    width: 70px;
+    height: 70px;
+}
+
+.card .icon2 {
+    width: 60px;
+    height: 60px;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* Adjustments for buttons */
+.card .btn {
+    font-size: 0.875rem;
+    margin-right: 0.5rem;
+}
+
+.card-body .stretched-link {
+    position: relative;
+    padding-top: 10px;
+}
